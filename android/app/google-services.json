@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886500851175",
+    "project_id": "authentication-27ee6",
+    "storage_bucket": "authentication-27ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886500851175:android:21409ca883a8367ca15142",
+        "android_client_info": {
+          "package_name": "com.example.flower_app_ctse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886500851175-chousln61rp6pes1574eul4mata3ue2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoMnomHILk7tQraNYPSprSttKgiTmRek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886500851175-chousln61rp6pes1574eul4mata3ue2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
